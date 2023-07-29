@@ -92,6 +92,11 @@ footer {
   text-transform: capitalize;
 }
 
+
+.dark-mode footer {
+  color: var(--white-color)
+}
+
  
 @media (max-width: 320px) {
   h1 {
